@@ -18,47 +18,50 @@ export const Projects = () => {
       link: 'https://github.com/it22639080/Gym-management-system.git',
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg2,
+      title: "E-Commerce Platform",
+      description: "Full-stack e-commerce solution with product management, shopping cart",
+      imgUrl: "https://tse4.mm.bing.net/th/id/OIP.q6lzErOfrGNdR9x9BpwajgHaE8?rs=1&pid=ImgDetMain&o=7&rm=3",
+      link: 'https://github.com/it22639080/e-commerce.git',
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg3,
+      title: "Online Order System",
+      description: "University-focused order management system with robust user authentication and order tracking capabilities",
+      imgUrl: "https://tse1.mm.bing.net/th/id/OIP.EHIHgVsN4KXONCb4g-y-KAHaEo?rs=1&pid=ImgDetMain&o=7&rm=3",
+      link: 'https://github.com/it22639080/Hotel-management-system-using-java.git',
+    },
+   {
+      title: "Live Chat Integration",
+      description: "Interactive web platform featuring real-time chat functionality for enhanced user engagement.",
+      imgUrl: "https://webcdn.callhippo.com/blog/wp-content/uploads/2022/08/Top-15-VoIP-Phones-for-Your-Business.png",
+      link: 'https://github.com/it22639080/Web-page-with-live-chat.git',
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg1,
+      title: "Mobile Game App",
+      description: "I’m thrilled to showcase my individual project for the **Mobile Application Development (MAD)** course, where I developed a mobile game application using **Kotlin**. ",
+      imgUrl: "https://classplusapp.com/growth/wp-content/uploads/2022/06/6-Benefit-of-using-mobile-app-for-school-management-780x435.jpg",
+      link: 'https://github.com/it22639080/2D-mobile-game-application-Kotlin.git',
     },
-    {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg2,
-    },
-    {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg3,
+      {
+      title: "Note App- Mobile App",
+      description: "I’m excited to share my individual project for the Mobile Application Development (MAD) course: a Task Manager App developed using Kotlin and SQLite.Task Management: Create, update, and delete tasks with ease.",
+      imgUrl: "https://as2.ftcdn.net/v2/jpg/05/75/32/97/1000_F_575329738_YZ2qNNQdhiLdQPHPDiwkCC0nUbIFjXvS.jpg",
+      link: 'https://github.com/it22639080/2D-mobile-game-application-Kotlin.git',
     },
   ];
   const projects2 = [
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg1,
+      title: "Social Support & Skill Development Platform",
+      description: "A full-stack MERN (MongoDB, Express, React, Node.js) application designed to promote social impact through community engagement and personal development.",
+      imgUrl: "https://th.bing.com/th/id/OIP.zp0X6g57kVDUXsW2I5oSDQHaD_?w=291&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      link: 'https://github.com/it22639080/itpm-skill-and-social-support.git',
     },
     {
-      title: "Business Startup",
+      title: "Image-Search-Engine",
       description: "Design & Development",
-      imgUrl: projImg2,
+      imgUrl: "https://kinsta.com/wp-content/uploads/2021/11/image-search-engine.png",
+      link: 'https://github.com/it22639080/Image-Search-Engine.git',
     },
-    {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg3,
-    },
+    
   ];
 
   return (
@@ -113,7 +116,7 @@ export const Projects = () => {
                       </Row>
                     </Tab.Pane>
                     <Tab.Pane eventKey="third">
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</p>
+                      <p>Upcoming...</p>
                     </Tab.Pane>
                   </Tab.Content>
                 </Tab.Container>
